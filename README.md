@@ -1,4 +1,4 @@
-# Higher-Order LaSDI
+# Rollout LaSDI
 
 Rollout LaSDI is a Reduced Order Modeling framework based on the GPLaSDI algorithm [1]. Specifically, we add a new "roll-out loss", which promotes predictions over long time horizons. We also add support for variable time stepping. The rest of the code represents an implementation of the GPLaSDI algorithm [1] which has been modified to account for the new features. 
 
